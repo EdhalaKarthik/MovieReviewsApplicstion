@@ -1,1 +1,1 @@
-# MovieReviewsApplicstion
+# MovieReviewsApplication
